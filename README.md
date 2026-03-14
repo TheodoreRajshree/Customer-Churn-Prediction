@@ -1,4 +1,4 @@
-# Customer Churn Prediction ML Project
+# Customer Churn Prediction ML Project.
 
 ## 🔹 Project Overview
 This project predicts whether a customer will leave (churn) or stay using machine learning.  
