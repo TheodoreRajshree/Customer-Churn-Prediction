@@ -1,6 +1,6 @@
 # Customer Churn Prediction ML Project.
 
-## 🔹 Project Overview
+## 🔹 Project Overview.
 This project predicts whether a customer will leave (churn) or stay using machine learning.  
 It uses a **Random Forest Classifier** and includes data preprocessing, model evaluation, and visualization of results.  
 
